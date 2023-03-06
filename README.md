@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanchari1999
-- 👀 I’m interested in Building Website.
+- 👀 I’m interested in building Websites.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
 <!---
