@@ -32,5 +32,10 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sanchari1999)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchari1999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
 
 
