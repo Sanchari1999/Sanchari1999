@@ -19,5 +19,9 @@
   <p>- 🌱 I’m currently learning HTML, CSS, JavaScript.</p>
 </div>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
 
