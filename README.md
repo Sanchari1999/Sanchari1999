@@ -11,7 +11,7 @@
 
 <div id="aboutme" align="center">
   <h1>
-    Hey there!
+    Heya!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
   </h1>
   <p>- 👋 Hi, I’m @Sanchari1999</p>
