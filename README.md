@@ -24,7 +24,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div id="icons">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
 </div>
 
 ---
