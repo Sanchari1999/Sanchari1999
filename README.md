@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sanchari1999
 - 👀 I’m interested in building Websites.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
+<hr>
 
 <!---
 Sanchari1999/Sanchari1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
